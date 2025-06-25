@@ -1,4 +1,4 @@
-# Nhận Dạng Mẫu Học Sâu (Deep Pattern Recognition)
+# Trí Tuệ Nhân Tạo (Artificial Intelligence)
 
 Chủ Biên: TS. Đào Hữu Hùng
 
@@ -23,6 +23,11 @@ Giáo trình do TS. Đào Hữu Hùng biên soạn.
 
 # Đôi nét về TS. Đào Hữu Hùng 
 
-TS. Đào Hữu Hùng nhận bằng Đại Học, Thạc sĩ về Kỹ Thuật Điện từ trường Đại Học Bách Khoa Hà Nội và trường Đại Học Quốc Gia Đài Loan về Khoa Học Công Nghệ năm 2007 và năm 2010, tương ứng. Ông nhận bằng Tiến sĩ về ngành khoa học máy tính từ trường Đại Học Keio, Yokohama, Nhật Bản vào năm 2014. TS. Hùng bắt đầu nghiên cứu về mạng nơ ron nhân tạo ứng dụng trong kỹ thuật điều khiển khi còn đang là sinh viên của trường Đại Học Bách Khoa Hà Nội, và tiếp tục nghiên cứu chuyên sâu về Thị Giác Máy Tính, Học Máy, Học Sâu xuyên suốt quá trình học tập và công tác tại nước ngoài. Ông dành thời gian 6 tháng làm nghiên cứu sau tiến sĩ tại trường Đại học Keio trước khi gia nhập FPT Software Japan. 
+Đào Hữu Hùng nhận bằng Tiến sĩ về Trí tuệ Nhân tạo từ Đại học Keio, Yokohama, Nhật Bản vào năm 2014. Ông tiếp tục làm nghiên cứu sinh sau tiến sĩ tại cùng trường trước khi gia nhập FPT Software Japan vào năm 2015. Tại đây, ông đã thành lập và phát triển mảng kinh doanh và năng lực về AI cho FPT. Nhóm AI của ông đã triển khai thành công hơn 300 dự án về nhiều chủ đề khác nhau, chủ yếu với khách hàng Nhật Bản. Các dự án này bao gồm kiểm tra hình ảnh, ADAS (Hệ thống hỗ trợ lái xe nâng cao), xử lý ảnh y tế, ontology và ứng dụng LLM (Mô hình ngôn ngữ lớn), v.v. Tiến sĩ Hùng đã thuyết trình tại nhiều hội nghị hàng đầu về thị giác máy tính và trí tuệ nhân tạo, đồng thời sở hữu một bằng phát minh sáng chế được cấp tại Nhật Bản.
 
-Tại FPT Software Japan ông thành lập nhóm Data Science, cung cấp các giải pháp về phân tích dữ liệu và AI cho các doanh nghiệp Nhật Bản, từ hệ thống hỗ trợ lái xe tiên tiến (ADAS), xe tự lái (AD), Kiểm tra chất lượng bề mặt sản phẩm, AI camera giám sát, Xử lý hình ảnh y tế, phát hiện bất thường, Ontology, và tối ưu hóa lịch sản xuất, ... Ông đã xuất bản hơn chục bài báo quốc tế và đăng ký 2 bằng phát minh sáng chế tại Nhật Bản. 
+Tiến sĩ Hùng cũng từng giữ chức Giám đốc Bộ phận Phát triển Camera AI kiêm Giám đốc Kinh doanh tại VinBrain trong một năm, từ 2021 đến 2022. Dưới sự lãnh đạo của ông, VinBrain đã trở thành nhà cung cấp giải pháp AI camera nổi tiếng tại Việt Nam, triển khai hơn 11.000 phần mềm AI Camera trong các khu đô thị của Vinhomes. Trong thời gian ngắn này, ông đã công bố ba bài báo tại các hội nghị uy tín như BMVC, FG và ICASSP. VinBrain hiện là một phần của NVIDIA.
+
+Từ tháng 6 năm 2023, Tiến sĩ Hùng đã thành lập Verysell AI, một công ty khởi nghiệp được tài trợ bởi các cổ đông châu Âu. Verysell AI đã tiên phong phát triển nhiều sản phẩm và giải pháp LLM cho khách hàng trong các lĩnh vực BFSI (Ngân hàng, Dịch vụ tài chính, Bảo hiểm), Bán lẻ, Thương mại điện tử và Viễn thông.
+
+Hiện tại, Tiến sĩ Hùng là Giám đốc Trung tâm AI tại VPBank, nơi ông đang tập trung đẩy nhanh việc áp dụng LLM và các tác nhân AI để tạo ra các nguồn doanh thu mới, nâng cao trải nghiệm khách hàng, hợp lý hóa và tối ưu hóa các hoạt động nội bộ, đồng thời thúc đẩy hiệu quả và lợi nhuận cho VPBank.
+
